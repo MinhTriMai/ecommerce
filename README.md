@@ -1,2 +1,2 @@
 # ecommerce
-THis is demo colab
+This is demo colab
